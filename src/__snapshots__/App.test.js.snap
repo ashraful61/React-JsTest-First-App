@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot for app component 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <p>
+      my test react app
+    </p>
+    <h1>
+      Snapshot Testing
+    </h1>
+    <p />
+    <button>
+      Update data
+    </button>
+    <br />
+    <br />
+    <br />
+    <br />
+    <img
+      alt=""
+      src="https://api.deepai.org/job-view-file/e67717d4-f9c0-4b32-b1f7-c94e38cf1328/outputs/output.jpg"
+      title="test image title"
+    />
+  </div>
+</div>
+`;
